@@ -11,13 +11,13 @@ This repository contains all the assignments and solutions for the Applied Data 
   - Techniques for analyzing datasets, handling missing values, and preparing data for modeling.
   - Focus on converting data into usable numerical formats and normalizing values.
 
-    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2002/ADS_Assignment_02.ipynb"><img alt="Open in Colab" src="https://img.shields.io/badge/​-Open%20in%20Colab-blue?logo=googlecolab&logoColor=F9AB00&style=flat"></a>
+    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2002/ADS_Assignment_02.ipynb"><img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     <a href="https://github.com/sinaabbasi1/applied-data-science/blob/bac4587e3e7a5bd267a0344b914ac35f4be0b42b/Assignments/Assignment%2002/ADS_Assignment_02.ipynb"><img alt="Open in Github" src="https://img.shields.io/badge/​-Open%20in%20Github-purple?logo=github&logoColor=4807a3&style=flat"></a>
     
 ### Assignment 3: Data Visualization
   - Practice with a variety of visualization techniques (e.g., pie charts, scatter plots, interactive charts) to uncover insights.
 
-    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2003/ADS_Assignment_03.ipynb"><img alt="Open in Colab" src="https://img.shields.io/badge/​-Open%20in%20Colab-blue?logo=googlecolab&logoColor=F9AB00&style=flat"></a>
+    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2003/ADS_Assignment_03.ipynb"><img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     <a href="https://github.com/sinaabbasi1/applied-data-science/blob/bf5611d616efde3bf4aa0da77231d437a34d990d/Assignments/Assignment%2003/ADS_Assignment_03.ipynb"><img alt="Open in Github" src="https://img.shields.io/badge/​-Open%20in%20Github-purple?logo=github&logoColor=4807a3&style=flat"></a>
     
 ### Assignment 4: Feature Engineering
@@ -29,7 +29,7 @@ This repository contains all the assignments and solutions for the Applied Data 
 ### Assignment 6: Regression Methods
   - Implementation of linear regression, logistic regression, ridge regression, LASSO, and kernel regression for predictive analysis.
 
-    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2006/ADS_Assignment_06.ipynb"><img alt="Open in Colab" src="https://img.shields.io/badge/​-Open%20in%20Colab-blue?logo=googlecolab&logoColor=F9AB00&style=flat"></a>
+    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2006/ADS_Assignment_06.ipynb"><img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     <a href="https://github.com/sinaabbasi1/applied-data-science/blob/bac4587e3e7a5bd267a0344b914ac35f4be0b42b/Assignments/Assignment%2006/ADS_Assignment_06.ipynb"><img alt="Open in Github" src="https://img.shields.io/badge/​-Open%20in%20Github-purple?logo=github&logoColor=4807a3&style=flat"></a>
     
 ### Assignment 7: Binary Classification Methods
@@ -42,7 +42,7 @@ This repository contains all the assignments and solutions for the Applied Data 
 ### Assignment 9: Neural Networks
   - Application of convolutional neural networks (CNNs) for image classification, transfer learning, and data augmentation.
 
-    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2009/ADS_Assignment_09.ipynb"><img alt="Open in Colab" src="https://img.shields.io/badge/​-Open%20in%20Colab-blue?logo=googlecolab&logoColor=F9AB00&style=flat"></a>
+    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2009/ADS_Assignment_09.ipynb"><img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     <a href="https://github.com/sinaabbasi1/applied-data-science/blob/bac4587e3e7a5bd267a0344b914ac35f4be0b42b/Assignments/Assignment%2009/ADS_Assignment_09.ipynb"><img alt="Open in Github" src="https://img.shields.io/badge/​-Open%20in%20Github-purple?logo=github&logoColor=4807a3&style=flat"></a>
 
 ### Assignment 10: Deep Neural Network
@@ -51,7 +51,7 @@ This repository contains all the assignments and solutions for the Applied Data 
 ### Assignment 11: Convolutional Neural Networks, Transfer Learning, and Data Augmentation
   - Techniques to handle imbalanced datasets, including SMOTE, cost-sensitive training, and automation tools like TPOT and AutoSklearn.
 
-    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2011/ADS_Assignment_11.ipynb"><img alt="Open in Colab" src="https://img.shields.io/badge/​-Open%20in%20Colab-blue?logo=googlecolab&logoColor=F9AB00&style=flat"></a>
+    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2011/ADS_Assignment_11.ipynb"><img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     <a href="https://github.com/sinaabbasi1/applied-data-science/blob/bac4587e3e7a5bd267a0344b914ac35f4be0b42b/Assignments/Assignment%2011/ADS_Assignment_11.ipynb"><img alt="Open in Github" src="https://img.shields.io/badge/​-Open%20in%20Github-purple?logo=github&logoColor=4807a3&style=flat"></a>
     
 ### Assignment 12: Autoencoders, GANs, and Explainable AI
