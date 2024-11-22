@@ -10,6 +10,9 @@ This repository contains all the assignments and solutions for the Applied Data 
 ### Assignment 2: Exploratory Data Analysis and Data Cleaning
   - Techniques for analyzing datasets, handling missing values, and preparing data for modeling.
   - Focus on converting data into usable numerical formats and normalizing values.
+
+    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2002/ADS_Assignment_02.ipynb"><img alt="Open in Colab" src="https://img.shields.io/badge/​-Open%20in%20Colab-blue?logo=googlecolab&logoColor=F9AB00&style=flat"></a>
+    <a href="https://github.com/sinaabbasi1/applied-data-science/blob/bac4587e3e7a5bd267a0344b914ac35f4be0b42b/Assignments/Assignment%2002/ADS_Assignment_02.ipynb"><img alt="Open in Github" src="https://img.shields.io/badge/​-Open%20in%20Github-purple?logo=github&logoColor=4807a3&style=flat"></a>
     
 ### Assignment 3: Data Visualization
   - Practice with a variety of visualization techniques (e.g., pie charts, scatter plots, interactive charts) to uncover insights.
@@ -25,27 +28,38 @@ This repository contains all the assignments and solutions for the Applied Data 
     
 ### Assignment 6: Regression Methods
   - Implementation of linear regression, logistic regression, ridge regression, LASSO, and kernel regression for predictive analysis.
+
+    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2006/ADS_Assignment_06.ipynb"><img alt="Open in Colab" src="https://img.shields.io/badge/​-Open%20in%20Colab-blue?logo=googlecolab&logoColor=F9AB00&style=flat"></a>
+    <a href="https://github.com/sinaabbasi1/applied-data-science/blob/bac4587e3e7a5bd267a0344b914ac35f4be0b42b/Assignments/Assignment%2006/ADS_Assignment_06.ipynb"><img alt="Open in Github" src="https://img.shields.io/badge/​-Open%20in%20Github-purple?logo=github&logoColor=4807a3&style=flat"></a>
     
 ### Assignment 7: Binary Classification Methods
   - Exploration of binary and multiclass classification models, including SVMs, KNN, decision trees, and boosting techniques (e.g., XGBoost, LightGBM).
     
-### Assignment 8: Multiclass Classification Methods.
+### Assignment 8: Multiclass Classification Methods
   - Building and training deep learning models using frameworks like Keras and PyTorch.
   - Tasks include binary classification, regression, and time-series analysis.
     
 ### Assignment 9: Neural Networks
   - Application of convolutional neural networks (CNNs) for image classification, transfer learning, and data augmentation.
 
+    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2009/ADS_Assignment_09.ipynb"><img alt="Open in Colab" src="https://img.shields.io/badge/​-Open%20in%20Colab-blue?logo=googlecolab&logoColor=F9AB00&style=flat"></a>
+    <a href="https://github.com/sinaabbasi1/applied-data-science/blob/bac4587e3e7a5bd267a0344b914ac35f4be0b42b/Assignments/Assignment%2009/ADS_Assignment_09.ipynb"><img alt="Open in Github" src="https://img.shields.io/badge/​-Open%20in%20Github-purple?logo=github&logoColor=4807a3&style=flat"></a>
+
 ### Assignment 10: Deep Neural Network
   - Implementation of autoencoders, GANs, and tools like Grad-CAM, SHAP, and LIME to interpret model predictions.
     
 ### Assignment 11: Convolutional Neural Networks, Transfer Learning, and Data Augmentation
   - Techniques to handle imbalanced datasets, including SMOTE, cost-sensitive training, and automation tools like TPOT and AutoSklearn.
+
+    <a href="https://colab.research.google.com/github/sinaabbasi1/applied-data-science/blob/main/Assignments/Assignment%2011/ADS_Assignment_11.ipynb"><img alt="Open in Colab" src="https://img.shields.io/badge/​-Open%20in%20Colab-blue?logo=googlecolab&logoColor=F9AB00&style=flat"></a>
+    <a href="https://github.com/sinaabbasi1/applied-data-science/blob/bac4587e3e7a5bd267a0344b914ac35f4be0b42b/Assignments/Assignment%2011/ADS_Assignment_11.ipynb"><img alt="Open in Github" src="https://img.shields.io/badge/​-Open%20in%20Github-purple?logo=github&logoColor=4807a3&style=flat"></a>
     
 ### Assignment 12: Autoencoders, GANs, and Explainable AI
+  - Autoencoders, GANs, and tools like Grad-CAM, SHAP, and LIME to interpret model predictions.
 
 ### Assignment 13: Imbalanced Data, Pipelines, and AutoML
-
+  - Techniques to handle imbalanced datasets, including SMOTE, cost-sensitive training, and automation tools like TPOT and AutoSklearn.
+    
 ## Contributing
 
 Feel free to submit issues or pull requests if you find bugs or want to improve this repository.
