@@ -64,7 +64,7 @@ This repository contains all the assignments and solutions for the Applied Data 
 
 Feel free to submit issues or pull requests if you find bugs or want to improve this repository.
 
-### Acknowledgements
+## Acknowledgements
 
 This work was completed as part of the Applied Data Science course taught at [Tehran Institute for Advanced Studies (TeIAS)](https://teias.institute/), Khatam University.
 
