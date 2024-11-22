@@ -1,4 +1,4 @@
-# Applied Data Science Assign
+# Applied Data Science
 This repository contains all the assignments and solutions for the Applied Data Science course by [Amir Hesam Salavati](https://github.com/saloot), including tasks related to data manipulation, visualization, machine learning, and deep learning. The materials of the course are accessible through [this link](https://github.com/saloot/ADS2022/blob/cf301207f44b7984817c2adf043344626b7d5cd8/schedule.md).
 
 ## Assignments
